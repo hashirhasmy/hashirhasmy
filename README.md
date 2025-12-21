@@ -36,9 +36,9 @@
 
 💼 **5+ YOE**
 
-🔭 Currently working on **[Playwright_Js_Practice](https://github.com/hashirhasmy/Playwright_Js_Practice)**
+🔭 Currently working on **[Playwright Automation]**
 
-🌱 Currently learning **Playwright**
+🌱 Currently learning **AI Agents, LLM, AI-ML**
 
 💬 Ask me about **Test Automation, Playwright, Selenium, QA Ops**
 
