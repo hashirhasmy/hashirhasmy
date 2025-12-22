@@ -234,7 +234,7 @@
 <img src="https://img.shields.io/badge/🍴_Total_Forks-6-blue?style=for-the-badge" alt="Forks"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-25-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-26-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/👥_Followers-33-purple?style=for-the-badge" alt="Followers"/>
