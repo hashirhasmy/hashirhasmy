@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I love debugging**
 
-📦 **25** repositories | ⭐ **12** stars | 👥 **33** followers
+📦 **26** repositories | ⭐ **12** stars | 👥 **33** followers
 
 <br clear="right"/>
 
