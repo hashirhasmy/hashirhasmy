@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I love debugging**
 
-📦 **26** repositories | ⭐ **12** stars | 👥 **33** followers
+📦 **26** repositories | ⭐ **12** stars | 👥 **34** followers
 
 <br clear="right"/>
 
@@ -237,7 +237,7 @@
 <img src="https://img.shields.io/badge/📦_Repositories-26-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/👥_Followers-33-purple?style=for-the-badge" alt="Followers"/>
+<img src="https://img.shields.io/badge/👥_Followers-34-purple?style=for-the-badge" alt="Followers"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/📅_Years_Active-4+-orange?style=for-the-badge" alt="Years"/>
