@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I love debugging**
 
-📦 **25 + ** repositories | ⭐ **12** stars | 👥 **34** followers
+📦 **27** repositories | ⭐ **12** stars | 👥 **34** followers
 
 <br clear="right"/>
 
@@ -98,7 +98,7 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/HTML5-E34F27?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
@@ -234,7 +234,7 @@
 <img src="https://img.shields.io/badge/🍴_Total_Forks-6-blue?style=for-the-badge" alt="Forks"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-26-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-27-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/👥_Followers-34-purple?style=for-the-badge" alt="Followers"/>
