@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-TEST-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/5+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-  <img src="https://img.shields.io/badge/12-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
+  <img src="https://img.shields.io/badge/15-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=hashirhasmy&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I love debugging**
 
-📦 **27** repositories | ⭐ **12** stars | 👥 **36** followers
+📦 **27** repositories | ⭐ **15** stars | 👥 **36** followers
 
 <br clear="right"/>
 
@@ -199,7 +199,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>25</b> repositories — <b>12</b> stars earned — <b>6</b> forks</i>
+  <i>💡 Total of <b>27</b> repositories — <b>15</b> stars earned — <b>6</b> forks</i>
 </p>
 
 
@@ -228,7 +228,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/⭐_Stars_Earned-12-gold?style=for-the-badge" alt="Stars"/>
+<img src="https://img.shields.io/badge/⭐_Stars_Earned-15-gold?style=for-the-badge" alt="Stars"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🍴_Total_Forks-6-blue?style=for-the-badge" alt="Forks"/>
