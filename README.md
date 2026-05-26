@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I love debugging**
 
-📦 **27** repositories | ⭐ **15** stars | 👥 **39** followers
+📦 **28** repositories | ⭐ **15** stars | 👥 **39** followers
 
 <br clear="right"/>
 
@@ -199,7 +199,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>27</b> repositories — <b>15</b> stars earned — <b>6</b> forks</i>
+  <i>💡 Total of <b>28</b> repositories — <b>15</b> stars earned — <b>6</b> forks</i>
 </p>
 
 
